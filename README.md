@@ -8,6 +8,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs]
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/hawkins-rick/nsg-azure-machaine)
+  - [Understanding within Azure VMs]
 <!--
 **hawkins-rick/hawkins-rick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
